@@ -4,7 +4,8 @@ title: Research
 tagline: Sonal Singhal
 tags: [about, research, Singhal]
 modified: 27-August-2017
-comments: true
+header:
+   image: assets/images/research2.jpg
 ---
 
 One of the fundamental units in biology is the species. Our lab studies how new species form and are maintained. To answer these questions, we integrate field work, genomics, and experiments.

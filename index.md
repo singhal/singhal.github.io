@@ -4,7 +4,7 @@ author_profile: true
 header:
    overlay_color: "#5e616c"
    overlay_image: assets/images/wildflower.jpg
-excerpt: Welcome!
+excerpt: Welcome! We are a group of evolutionary biologists based @ CSU Dominguez Hills.
 feature_row:
    - image_path: assets/images/lab.jpg
      alt: "Who we are"
@@ -25,8 +25,5 @@ feature_row:
      btn_class: "btn--primary"
      btn_label: "Read more"
 ---
-
-We are a group of evolutionary biologists based @ CSU Dominguez Hills.
-{: .notice--info}
 
 {% include feature_row %}

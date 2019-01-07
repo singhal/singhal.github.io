@@ -4,7 +4,8 @@ title: Publications
 tagline: Sonal Singhal
 tags: [about, research, Singhal]
 modified: 10-August-2017
-comments: true
+header:
+   image: assets/images/lizard.jpg
 ---
 
 <a href="https://scholar.google.com/citations?user=hGRmhQkAAAAJ&hl=en" target="_blank"><img src="/assets/images/Google_Scholar_logo_2015.png" width="100" /></a>

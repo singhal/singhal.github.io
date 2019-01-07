@@ -3,7 +3,8 @@ permalink: /news/
 title: News
 tagline: Sonal Singhal
 modified: 20-August-2017
-comments: true
+header:
+   image: assets/images/sky2.jpg
 ---
 
 - December 2018: Mayra is selected to attend the Graduate Diversity Weekend at Cornell University
