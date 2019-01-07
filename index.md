@@ -18,7 +18,7 @@ feature_row:
      url: "/research"
      btn_class: "btn--primary"
      btn_label: "Learn more"
-   - image_path: assets/images/publications.jpg
+   - image_path: assets/images/publications.png
      alt: "What we do"
      title: "Publications"
      url: "/publications"
