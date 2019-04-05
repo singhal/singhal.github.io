@@ -17,8 +17,13 @@ table {
 }
 
 thead {
+<<<<<<< HEAD:_sass/minimal-mistakes/_tables.scss
   background-color: #ffffff;
   border-bottom: 1px solid mix(#000, $border-color, 25%);
+=======
+  background-color: $border-color;
+  border-bottom: 2px solid mix(#000, $border-color, 25%);
+>>>>>>> fdc4aec648503437067724682730a3b79952fef5:_sass/minimal-mistakes/_tables.scss
 }
 
 th {
@@ -28,7 +33,11 @@ th {
 }
 
 td {
+<<<<<<< HEAD:_sass/minimal-mistakes/_tables.scss
   padding: 1em;
+=======
+  padding: 0.5em;
+>>>>>>> fdc4aec648503437067724682730a3b79952fef5:_sass/minimal-mistakes/_tables.scss
   border-bottom: 1px solid mix(#000, $border-color, 25%);
 }
 
