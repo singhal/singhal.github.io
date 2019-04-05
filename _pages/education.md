@@ -12,7 +12,6 @@ header:
 ## Teaching
 
 - Bio 124: Principles in Biology III: Evolution and Ecology
-<<<<<<< HEAD
   - Offered every Fall & Spring semester
   - Covers fundamentals of ecology & evolution
   - Taught in flipped class using group activities & discussions 
@@ -26,18 +25,6 @@ header:
 - Bio 502: Biostatistics
   - Offered every Fall semester
   - Taught in workshop-style using R
-=======
-	- Offered every Fall & Spring semester
-	- Covers fundamentals of ecology & evolution
-	- Taught in flipped class using group activities & discussions 
-- Bio 340: Genetics
-	- Offered every Fall & Spring semester
-	- Covers molecular genetics, inheritance, and evolutionary genetics
-	- Taught in flipped class using group activities & discussions
-- Bio 502: Biostatistics
-	- Offered every Fall semester
-	- Taught in workshop-style using R
->>>>>>> fdc4aec648503437067724682730a3b79952fef5
 
 ## Outreach
 In the past, our lab has been lucky to join these organizations:
