@@ -6,7 +6,7 @@ header:
    overlay_image: assets/images/wildflower.jpg
 excerpt: Welcome! We are a group of evolutionary biologists based @ CSU Dominguez Hills.
 feature_row:
-   - image_path: assets/images/lab.jpg
+   - image_path: assets/images/newlab.jpg
      alt: "Who we are"
      title: "People"
      url: "/people"
