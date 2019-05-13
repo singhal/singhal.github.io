@@ -14,7 +14,7 @@ Our research program focuses on three major aims.
 
 # Macroevolutionary patterns of species diversity
 {% include figure image_path="/assets/images/species.png" alt="macro" caption="One reason why species diversity might vary is because speciation rate, or how quickly new species form, also varies. This variation can be seen here across lizards and snakes." %}
-When we think of mammals, we might first think about chimps, bears, and elephants. But, more than 60% of mammal species are either some kind of rodent or bat. This is an example of a compelling pattern found across the tree of life: some types of species are more common than others. Using lizards and snakes, we are studying the potential causes for this pattern.
+When we think of mammals, we might first think about chimps, bears, and elephants. But, more than 60% of mammal species are either some kind of rodent or bat. This is an example of a compelling pattern found across the tree of life: some types of species are more common than others. We are studying the potential causes for this pattern in lizards and snakes.
 
 Work done in collaboration with [Dan Rabosky](http://www.raboskylab.org/) at University of Michigan.
 
@@ -29,7 +29,7 @@ Work done in collaboration with [Matt Fujita](https://fujitalab.com/) at UT Arli
 <br>
 
 # The adaptive radiation of desert plants
-{% include figure image_path="/assets/images/encelia1.png" alt="this is a placeholder image" caption="The desert habitat of _E. asperifolia_ (left) and the dune habitat of _E. ventorum_ (right). Where the two habitats meet, the two species hybridize." %}
+{% include figure image_path="/assets/images/encelia1.png" alt="this is a placeholder image" caption="(Left) The desert habitat of _E. asperifolia_ and the dune habitat of _E. ventorum_. (Right) Where the two habitats meet, the two species hybridize." %}
 _Encelia_ is a radiation of about 20 plant species, most of which live in the open deserts of the southwestern United States and Baja California. Each species of _Encelia_ shows adaptations to the different habitats in which they are found. Interestingly, they evolved these differences even while hybridizing freely with each other -- wherever any two species meet, hybrids form, with no evidence that they are sterile or less fit than their parents. We are researching the evolutionary history of these species and their natural hybrid zones to determine how these species formed and how they are maintained.
 
 Work done in collaboration with [Adam Roddy](http://www.adamroddy.com/) at Yale University & [Felipe Zapata](http://zapatalab.org/) at UCLA.

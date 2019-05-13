@@ -7,12 +7,16 @@ header:
    image: assets/images/sky2.jpg
 ---
 
-
+## 2019
+- May 2019: Andrea presents her research at the [Southern California Academy of Sciences Annual Meeting](https://scas.nhm.org/annual-meeting/) in Northridge
 - April 2019: John presents his research at the [West Coast Biological Sciences Undergraduate Research Conference](https://www.sandiego.edu/cas/biology/wcbsur-conference/) in San Diego
+- April 2019: The lab hosts [Dr. Jessica Oswald](https://jessicaoswald.weebly.com/) for a seminar on avian paleontology
 - March 2019: Nicole Roberts joins the lab as a Masters student. Welcome, Nicole!
-- March 2019: Everyone is leaving the lab for the summer to head to REUs! Andrea is heading to Auburn, John to Michigan State, Liz to University of Michigan, Mayra to Texas A&M, and Natalya to UCLA. 	 
+- March 2019: Everyone is leaving the lab for the summer to head to REUs! Andrea is heading to Auburn, John to Michigan State, Liz to University of Michigan, Mayra to Texas A&M, and Natalya to UCLA	 
 - February 2019: The entire lab presents posters at Student Research Day on the CSU Dominguez Hills campus
- ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/srd.png){: .align-center}
+   ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/srd.png){: .align-center}
+
+## 2018
 - December 2018: Mayra is selected to attend the Graduate Diversity Weekend at Cornell University
 - December 2018: Andrea is selected for the winter field course in Baja California Sur, Mexico, run by CSU Fullerton
 - December 2018: The lab hosts [Dr. Eduardo Amorim](https://scholar.google.com/citations?user=6UhVyUEAAAAJ&hl=en) for a seminar on human evolutionary genetics
