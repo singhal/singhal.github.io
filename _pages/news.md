@@ -8,6 +8,8 @@ header:
 ---
 
 ## 2019
+- October 2019: Nicole gets the Graduate Equity Fellowship to support her studies. Congrats, Nicole!
+   ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/nicole_award.jpg){: .align-center}
 - May 2019: Andrea presents her research at the [Southern California Academy of Sciences Annual Meeting](https://scas.nhm.org/annual-meeting/) in Northridge
 - April 2019: John presents his research at the [West Coast Biological Sciences Undergraduate Research Conference](https://www.sandiego.edu/cas/biology/wcbsur-conference/) in San Diego
 - April 2019: The lab hosts [Dr. Jessica Oswald](https://jessicaoswald.weebly.com/) for a seminar on avian paleontology
