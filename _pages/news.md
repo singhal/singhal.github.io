@@ -8,6 +8,8 @@ header:
 ---
 
 ## 2019
+- November 2019: Natalya presents her summer research at ABRCMS. Well done, Natalya!
+	![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/natalya_abrcms.jpg){: .align-center .width-half}
 - October 2019: Nicole gets the Graduate Equity Fellowship to support her studies. Congrats, Nicole!
    ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/nicole_award.jpg){: .align-center .width-half}
 - May 2019: Andrea presents her research at the [Southern California Academy of Sciences Annual Meeting](https://scas.nhm.org/annual-meeting/) in Northridge
