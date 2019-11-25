@@ -8,6 +8,8 @@ header:
 ---
 
 ## 2019
+- November 2019: Mayra & Liz present their research on _Encelia_ at SCCUR 2019. Well done, both!
+	![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sccur.jpg){: .align-center .width-half}
 - November 2019: Natalya presents her summer research at ABRCMS. Well done, Natalya!
 	![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/natalya_abrcms.jpg){: .align-center .width-half}
 - October 2019: Nicole gets the Graduate Equity Fellowship to support her studies. Congrats, Nicole!
