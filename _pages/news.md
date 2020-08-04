@@ -7,7 +7,16 @@ header:
    image: assets/images/sky2.jpg
 ---
 
+## 2020
+- June 2020: Liz is awarded a LS-AMP Summer Fellowship award to support her research on speciation in Australian lizards
+- May 2020: Andrea is selected as Best Undergraduate Biology Student (Research)
+- May 2020: Andrea, Mayra, and John graduate! We cannot wait until we can celebrate in person
+- April 2020: Nicole performs socially-distant opera concerts for her neighborhood and is featured on the local news!
+	![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/nicole_opera.jpg){: .align-center .width-half}
+- February 2020: The entire lab presents at Student Research Day on the CSU Dominguez Hills campus
+
 ## 2019
+- December 2019: Liz is selected to attend the Graduate Diversity Weekend at Cornell University
 - November 2019: Mayra & Liz present their research on _Encelia_ at SCCUR 2019. Well done, both!
 	![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sccur.jpg){: .align-center .width-half}
 - November 2019: Natalya presents her summer research at ABRCMS. Well done, Natalya!

@@ -14,11 +14,6 @@ header:
 
 <br><br>
 
-## Natalya Cardona
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/natalya.jpg){: .align-right .width-third} I am a transfer CSUDH [Presidential Scholar](https://www.csudh.edu/president/presidential-scholars/) graduating in Spring 2020 with a B.S. in Cell & Molecular Biology. My research focuses on the niche evolution and diversification of _Encelia_ in western North America. Our work will help characterize the role of changing climates in evolution. The knowledge and skills I am currently developing will allow me to thrive in my future research. Ultimately, I want to study the genetics of complex diseases and disorders. Ultimately, I aim to create change and increase diversity in research. In my spare time, I enjoy visiting museums/historic sites, trying new food, playing sports, serving as a tutor/peer-mentor, and hiking.
-
-<br><br>
-
 ## Mayra Padilla Flores
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/mayra.jpg){: .align-right .width-third} I am currently a fourth-year student at Dominguez Hills, majoring in Cell & Molecular Biology. My expected graduation date is Spring 2020. I currently am researching the hybridization between the desert plants _E. asperifolia_ and _E. ventorum_. More generally, I am interested in further understanding how aquatic organisms are responding to changing environments. When not in school, I like going to the beach, snorkeling, and spending time with my five year old daughter Leslie.
 
@@ -50,7 +45,5 @@ header:
 <br><br><br><br><br>
 
 # Alumni
-- **Isaac Battey**: Isaac spent a semester in the lab as a STAR graduate student, studying conservation genetics of lizards. He is currently a student teacher in chemistry.
-- **Melissa Diaz**: Melissa was a biology undergraduate student & studied lizard behavior. She graduated in December 2018 and is currently working as instructional support.
-- **Cecily Garcia**: Cecily spent a semester in the lab as a STAR graduate student, studying conservation genetics of lizards. She is currently a third-grade student teacher.
-- **Sara Moore**: Sara spent a semester in the lab as a STAR graduate student, studying conservation genetics of lizards. She is currently a student teacher in biology.
+- **Natalya Cardona**: Natalya spent two years in the lab as an undergraduate student & studied niche evolution in _Encelia_. She currently is finishing her undergraduate degree. 
+- **Melissa Diaz**: Melissa was a biology undergraduate student & studied lizard behavior. She graduated in December 2018 and is currently working as instructional support while pursuing her Masters in education.

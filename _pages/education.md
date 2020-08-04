@@ -9,7 +9,7 @@ header:
    image: assets/images/sky1.jpg
 ---
 
-## Teaching
+## Current Teaching
 
 - Bio 124: Principles in Biology III: Evolution and Ecology
   - Offered every Fall & Spring semester
@@ -19,9 +19,18 @@ header:
   - Offered every Fall & Spring semester
   - Covers molecular genetics, inheritance, and evolutionary genetics
   - Taught in flipped class using group activities & discussions
+- Bio 440: Molecular Genetics
+  - Offered every Spring semester
+  - Covers advanced molecular genetics, particularly gennomics
+  - Taught in a flipped class style with a focus on bioinformatics activities
 - Bio 495: Evolution
   - New elective course offered for now in the fall semester
   - Taught as a discussion-based course based on the primary literature
+
+## Past Teaching
+- Bio 125: Principles in Biology III: Evolution and Ecology Lab
+  - Offered every Fall & Spring semester
+  - Covers fundamentals of ecology & evolution in a lab setting
 - Bio 502: Biostatistics
   - Offered every Fall semester
   - Taught in workshop-style using R

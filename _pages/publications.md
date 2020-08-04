@@ -10,14 +10,22 @@ header:
 
 <a href="https://scholar.google.com/citations?user=hGRmhQkAAAAJ&hl=en" target="_blank"><img src="/assets/images/Google_Scholar_logo_2015.png" width="100" /></a>
 
+## 2020
+* S. Singhal​, A.B. Roddy​, C. DiVittorio, A. Sanchez-Amaya, C. Henriquez, C.R. Brodersen, S. Fehlberg, and F. Zapata (2020). ​Diversification, disparification, and hybridization in the desert shrubs ​_Encelia_. **bioRxiv**. ([pdf](/assets/docs/Singhal_etal_2020.pdf) and [SI](/assets/docs/Singhal_etal_2020_SI.pdf))
+* Fujita, M., S. Singhal, T.O. Brunes, and J.A. Maldonado (2020). Evolutionary dynamics and consequences of parthenogenesis in vertebrates. **AREES**, in press.
+* Prates, I. and S. Singhal (2020). Predicting speciation probability from replicated population histories. **Molecular Ecology**, in press.
+* Singhal, S., T.J. Colston, M.R. Grundler, S.A. Smith, G.C. Costa, G.R. Colli, C. Moritz, R.A. Pyron, and D.L. Rabosky (2020). Congruence and conflict in the higher-level phylogenetics of squamate reptiles: an expanded phylogenomic perspective. **Systematic Biology**, in press. [repo](https://github.com/singhal/conflict_analysis)
+* McEntee, J.P., J.G. Burleigh, and S. Singhal (2020). Dispersal predicts hybrid zone widths across animal diversity: Implications for species borders under incomplete reproductive isolation. **The American Naturalist**. ([pdf](/assets/docs/McEntee_hz_2020.pdf) and [Appendix](/assets/docs/McEntee_hz_App_2020.pdf) and [SI](/assets/docs/McEntee_hz_SI_2020.pdf) and [repo](https://github.com/singhal/hz_metaanalysis))
+* Zeng, Y., C. O'Malley, S. Singhal, F. Rahim, S. Park, X. Hen, and R. Dudley (2020). A tale of winglets: evolution of flight morphology in stick insects. **Frontiers in Ecology & Evolution**, 8: 1 - 15. [pdf](/assets/docs/Zeng_etal_2020.pdf)
+* DiVittorio, CD, S. Singhal​, A.B. Roddy​, F. Zapata​, D.D. Ackerly, B. Baldwin, C.R. Brodersen​, A. Burquez, P.V.A. Fine​, M. Padilla Flores​, E. Solis​, J. Morales-Villavicencio​, D. Morales-Arce​, D. Kyhos (2020). ​Natural selection maintains species despite widespread hybridization in the desert shrub ​_Encelia_. **bioRxiv**. ([pdf](/assets/docs/DiVittorio_etal_2020.pdf) and [SI](/assets/docs/DiVittorio_etal_2020_SI.pdf))
+
+
 ## 2019
-* Lado, P., C. Cox, K. Wideman, A. Hernandez, and H. Klompen (2019). Population Genetics of _Dermacentor variabilis_ Say 1821 (Ixodida: Ixodidae) in the United States Inferred From ddRAD-seq SNP Markers. **Annals of the Entomological Society of America**,, in press. ([pdf](/assets/docs/Lado_etal_2019.pdf)) 
 * Bi, K., T. Linderoth, S. Singhal, D. Vanderpool, J.L. Patton, R. Nielsen, C. Moritz, and J.M. Good (2019) Temporal genomic contrasts reveal heterogeneous evolutionary responses within and among montane chipmunk species during recent climate change. **PLoS Genetics**, 15: e1008119.  ([pdf](/assets/docs/Bi_etal_2019.pdf)) 
 * Harvey, M.G., S. Singhal, and D.L. Rabosky (2019). Beyond Reproductive Isolation: Demographic Controls on the Speciation Process. **AREES**, in press. ([pdf](/assets/docs/Harvey_etal_2019.pdf)) 
 * Grundler, M.R., S. Singhal, M.A. Cowan, and D.L. Rabosky (2019). Is genomic diversity a useful proxy for census population size? Evidence from a species-rich community of desert lizards. **Molecular Ecology**, 28: 1664 - 1674. ([pdf](/assets/docs/Grundler_etal_2019.pdf))
 
 ## 2018
-* McEntee, J.P., J.G. Burleigh, and S. Singhal (2018). Dispersal predicts hybrid zone widths across animal diversity: Implications for species borders under incomplete reproductive isolation. **bioRxiv**. ([pdf](/assets/docs/McEntee_hz_2018.pdf) and [SI](/assets/docs/McEntee_hz_SI_2018.pdf) and [repo](https://github.com/singhal/hz_metaanalysis))
 * Singhal, S., H. Huang, M. R. Grundler, M. R. Marchan-Rivadeneira, I. Holmes, P. O. Title, S. C. Connellan, and D.L. Rabosky (2018). Does Population Structure Predict the Rate of Speciation? A Comparative Test across Australia’s Most Diverse Vertebrate Radiation. **The American Naturalist**, 192: 432 - 447. ([pdf](/assets/docs/Singhal_geneflow_2018.pdf) and [SI](/assets/docs/Singhal_geneflow_SI_2018.pdf) and [repo](https://github.com/singhal/Spheno_Gene_Flow))
 * Singhal, S., C. J. Hoskin, P. Couper, S. Potter, and C. Moritz (2018). A Framework for Resolving Cryptic Species: A Case Study from the Lizards of the Australian Wet Tropics. **Systematic Biology**, 67: 1061 - 1075. ([pdf](/assets/docs/Singhal_species_2018.pdf) and [SI](/assets/docs/Singhal_species_SI_2018.pdf) and [appendix](/assets/docs/Singhal_species_appendix_2018.pdf) and [repo](https://github.com/singhal/AWT_delimit))
 
