@@ -14,18 +14,33 @@ header:
 
 <br><br>
 
-## Mayra Padilla Flores
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/mayra.jpg){: .align-right .width-third} I am currently a fourth-year student at Dominguez Hills, majoring in Cell & Molecular Biology. My expected graduation date is Spring 2020. I currently am researching the hybridization between the desert plants _E. asperifolia_ and _E. ventorum_. More generally, I am interested in further understanding how aquatic organisms are responding to changing environments. When not in school, I like going to the beach, snorkeling, and spending time with my five year old daughter Leslie.
+## Cerille Castrillo
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/cerille.jpeg){: .align-right .width-third} I am a current junior at CSUDH majoring in Environmental Science & Ecology. My general interests include conservation & ecological restoration, ichthyology, and phycology. If I’m not in the classroom, I love to be outdoors. You can typically find me scuba diving, snorkeling, hiking, and exploring new places in my free time.
+
 
 <br><br>
 
-## Josh De Vera
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/josh.jpg){: .align-right .width-third} I am studying Cell & Molecular Biology and am planning to graduate by 2020. I am currently researching the evolution of PRDM9 in lizards and snakes. In general, I am interested in genetic research and its application to human medicine. Outside of school, I spend most of my time working as an emergency room technician and any remainder time playing strategy games with my friends. 
+## George Contreras
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/george.jpg){: .align-right .width-third} I am currently a third-year student at CSU Dominguez Hills, majoring
+in microbiology. I plan to graduate in Spring 2022. The topics of biology that interest me include phylogenetics and taxonomy. I like these fields because they involve the exploration of different characteristics of a species to apply them to a specific category or ancestry. Outside of school, I like to sculpt, play piano, go on hikes, and [attempt to] cook new things.
 
-<br><br><br>
 
-## Andrea Hernandez
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/andrea.png){: .align-right .width-third} I will be graduating with my Bachelor of Science in Ecology & Environmental Science in Fall of 2020. I am currently researching the genetic variation between two small, rare, populations of plant species found in Baja California (_E. densifolia_ and _E. ravenii_) and testing for evidence of gene flow. More generally, I am interested in plants along with conservation & restoration and conservation genetics. Outside of school I like to go to electronic music festivals (my all-time favorite DJ is Deadmau5). I enjoy running, CrossFit, reading, playing videogames (my favorite at the moment is Cuphead), longboarding and hiking! My favorite book is _Origin_ by Dan Brown, my favorite song to study to is "My Pet Coelacanth" by Deadmau5, and my favorite biome is the desert! 
+<br><br>
+
+## Itzel Ixta
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/itzel.png){: .align-right .width-third} I am currently a senior at CSUDH majoring in Cellular & Molecular Biology. I am mostly interested in genetics and evolution. I am the youngest of three children born and raised in Los Angeles. When I’m not in school or doing homework, you can find me spending time at home with my dog or drinking coffee at the beach.
+
+
+<br><br>
+
+## Chandra Jones
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/chandra.jpeg){: .align-right .width-third} I am a junior, and my major is Biology - Ecology and Environmental Science. I’ve always had an interest in the environment, including how it changes and what we can do to preserve the environment and the animals that live in it. In my free time I like taking care of my plants, going on nature walks, and spending time with my loved ones. I’ve recently enjoyed roller skating down at the beach with my partner.
+
+<br><br>
+
+## Susana Lopez-Ignacio
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/susana.png){: .align-right .width-third} I am third-year student majoring in Cell and Molecular Biology at CSU Dominguez Hills. A topic that interests me is genetics and its correlation to disorders.  In the future, I plan to get more involved with this topic and to dive into the field of neurology. When I have some free time, I like to go and try a new drink flavor at Boba Time or catch up on anime series or drama. I am also into fashion trends and do change my style quite often. In other words, I love shopping!  
+
 
 <br><br>
 
@@ -35,15 +50,20 @@ header:
 <br><br>
 
 ## Liz Solis
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/liz.jpg){: .align-right .width-third} I’m a junior, and I will be graduating Spring 2020. I’m a biology major with the emphasis on Ecology & Environmental studies. Currently, I am researching hybridization between the desert plants _E. palmeri_ and _E. ventorum_. I am generally interested in conservation research, forest restoration, tropical ecology, and behavioral ecology (specifically on venomous spiders). Outside from school, I like to spend my time with my best friend. Normally we watch a movie, bake cookies, or grab a bite somewhere. I also like to spend time with my sister and her kids (when her kids aren’t in school!). Usually we go to Disneyland, or we’ll plan out a day with kid activities.
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/liz.jpg){: .align-right .width-third} I’m a junior, and I will be graduating Spring 2020. I’m a biology major with the emphasis on Ecology & Environmental studies. Currently, I am researching species limits in Australian lizards. I am generally interested in conservation research, forest restoration, tropical ecology, and behavioral ecology (specifically on venomous spiders). Outside from school, I like to spend my time with my best friend. Normally we watch a movie, bake cookies, or grab a bite somewhere. I also like to spend time with my sister and her kids (when her kids aren’t in school!). Usually we go to Disneyland, or we’ll plan out a day with kid activities.
 
 <br><br>
 
-## John Wrath
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/john.jpg){: .align-right .width-third} I am a senior majoring in Cell & Molecular Biology.  I joined the Singhal lab in March of 2018 and am currently studying patterns of genetic diversity in lizard species.  I was born and raised on the island of O’ahu, which gave me an appreciation for both the beauty of the natural world, as well as the profound impact humans have on it.  In my free time, I am an avid reader, guitarist, and PC gamer.
+## Alexis Widmann
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/alexis.jpg){: .align-right .width-third} I am currently a transfer junior at CSUDH from El Camino College. I’m working towards my B.S. in Molecular and Cellular Biology, where I intend to take that truly awesome degree all the way to graduate school where I will earn my M.S. in Genetic Counseling, my true passion. Outside of the lab and lecture you can still find me buried in biology textbooks and genetic pamphlets; some concerned family and friends worry I may have an obsession. Between you and me, I’ve only scratched the surface...
+
 
 <br><br><br><br><br>
 
 # Alumni
 - **Natalya Cardona**: Natalya spent two years in the lab as an undergraduate student & studied niche evolution in _Encelia_. She currently is finishing her undergraduate degree. 
+- **Josh De Vera**: Josh spent two years in the lab studying the evolution of the _PRDM9_ gene in lizards and snakes. Josh is currently working as a COVID19 safety officer while he pursues his goal of a career in genetic counseling.
 - **Melissa Diaz**: Melissa was a biology undergraduate student & studied lizard behavior. She graduated in December 2018 and is currently working as instructional support while pursuing her Masters in education.
+- **Andrea Hernandez**: Andrea spent two years in the lab studying rarity in the desert plants _Encelia_. Andrea is currently a graduate student pursuing her PhD on fungi & global change at UC Irvine.
+- **Mayra Padilla Flores**: Mayra spent nearly three years in the lab studying hybridization in the desert plants _Encelia_. Mayra is currently a Process Biologist working in food safety.
+- **John Wrath**: John spent nearly three years in the lab studying the central-marginal hypothesis in Australian lizards. John is currently writing for a video game media site while applying to graduate school.
