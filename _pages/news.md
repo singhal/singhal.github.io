@@ -7,10 +7,15 @@ header:
    image: assets/images/sky2.jpg
 ---
 
+## 2021
+- January 2021: Liz is awarded an Edison Student Fellowship from California State University STEM-Net to support her research on speciation in Australian lizards 
+
 ## 2020
-- June 2020: Liz is awarded a LS-AMP Summer Fellowship award to support her research on speciation in Australian lizards
+- December 2020: Josh graduates! 
+- December 2020: Liz is awarded a [Promega DOORS](https://www.promega.com/c/programs/doors-program/) Scholarship. Nicely done, Liz!
+- June 2020: Liz is awarded a LS-AMP Summer Fellowship to support her research on speciation in Australian lizards
 - May 2020: Andrea is selected as Best Undergraduate Biology Student (Research)
-- May 2020: Andrea, Mayra, and John graduate! We cannot wait until we can celebrate in person
+- May 2020: Andrea, Mayra, and John graduate! We cannot wait until we can celebrate in person.
 - April 2020: Nicole performs socially-distant opera concerts for her neighborhood and is featured on the local news!
 	![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/nicole_opera.jpg){: .align-center .width-half}
 - February 2020: The entire lab presents at Student Research Day on the CSU Dominguez Hills campus
