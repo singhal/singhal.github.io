@@ -21,7 +21,7 @@ header:
   - Covers molecular genetics, inheritance, and evolutionary genetics
   - Taught in flipped class using group activities & discussions
 - Bio 440: Molecular Genetics
-  - Covers advanced molecular genetics, particularly gennomics
+  - Covers advanced molecular genetics, particularly genomics
   - Taught in a flipped class style with a focus on bioinformatics activities
 - Bio 495: Evolution
   - New elective course focused on advanced topics in evolution
