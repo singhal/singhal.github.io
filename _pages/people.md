@@ -14,7 +14,7 @@ header:
 
 <br><br>
 
-## Cerille Castrillo
+## Micah Castrillo
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/cerille.jpeg){: .align-right .width-third} I am a current junior at CSUDH majoring in Environmental Science & Ecology. My general interests include conservation & ecological restoration, ichthyology, and phycology. If I’m not in the classroom, I love to be outdoors. You can typically find me scuba diving, snorkeling, hiking, and exploring new places in my free time.
 
 
