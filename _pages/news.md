@@ -21,6 +21,7 @@ header:
 - May 2021: Liz and Nicole graduate!
 - May 2021: Nicole is selected as the second place winner in the first-ever CSU 3MT Thesis competition. Nice work, Nicole! More information [here](https://news.csudh.edu/nicoleroberts-graduate-second-statewide/)
 - April 2021: We have a new lab! And even better, a proper computational space! Can't wait for it is safe for us all to be here working together.
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/lab.jpg){: .align-center .width-half}
 - January 2021: We welcome six new members to the lab! Learn more about them on our [People](https://singhallab.org/people/) page. 
 - January 2021: Liz is awarded an [Edison Student Fellowship](https://www2.calstate.edu/impact-of-the-csu/research/stem-net/Pages/2021-Edison-Student-Research-Fellowship-Symposium.aspx) from California State University STEM-Net to support her research on speciation in Australian lizards 
 
