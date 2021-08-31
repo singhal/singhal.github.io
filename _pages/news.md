@@ -8,7 +8,21 @@ header:
 ---
 
 ## 2021
-- January 2021: Liz is awarded an Edison Student Fellowship from California State University STEM-Net to support her research on speciation in Australian lizards 
+- August 2021: Chandra is accepted into the [UC Davis Evolution and Ecology Preview Weekend](https://eegradpreview.weebly.com/). 
+- August 2021: Micah shares her science journey in a powerful video. Watch [here](https://www.youtube.com/watch?v=U0dY8ZYh8Lg&ab_channel=DanielYim).
+- July 2021: Aracely is awarded funds from the NSF REPS program to spend a year at UW Seattle to collaborate with our lab and the [Leache lab](https://faculty.washington.edu/leache/wordpress/) on lizard speciation. We are so excited!
+- July 2021: Liz starts her PhD in evolutionary biology at University of New Mexico. We will miss you, Liz!
+- June 2021: Susana is accepted into the RISE program on campus to support her research in the lab. Nice work, Susana!
+- June 2021: Alexis, Chandra, George, Itzel and Susana all start summer REUs in the lab. 
+- June 2021: We finally were able to celebrate all our graduates! Congrats Andrea, John, Josh, Liz, Mayra, Natalya, and Nicole. Thank you for making the lab such a kind, fun, and interesting place to be.
+	![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/donut.jpg){: .align-center .width-half}
+- May 2021: Micah is selected as a [CSU Coast Student Intern](https://www2.calstate.edu/impact-of-the-csu/research/coast/funding/Pages/Internships-summer-2021.aspx). She will spend the summer working with NOAA on abalone conservation. Super cool, Micah!
+- May 2021: Liz is selected as Best Undergraduate Biology Student (Research).
+- May 2021: Liz and Nicole graduate!
+- May 2021: Nicole is selected as the second place winner in the first-ever CSU 3MT Thesis competition. Nice work, Nicole! More information [here](https://news.csudh.edu/nicoleroberts-graduate-second-statewide/)
+- April 2021: We have a new lab! And even better, a proper computational space! Can't wait for it is safe for us all to be here working together.
+- January 2021: We welcome six new members to the lab! Learn more about them on our [People](https://singhallab.org/people/) page. 
+- January 2021: Liz is awarded an [Edison Student Fellowship](https://www2.calstate.edu/impact-of-the-csu/research/stem-net/Pages/2021-Edison-Student-Research-Fellowship-Symposium.aspx) from California State University STEM-Net to support her research on speciation in Australian lizards 
 
 ## 2020
 - December 2020: Josh graduates! 
