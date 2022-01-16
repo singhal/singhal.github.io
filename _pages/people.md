@@ -45,10 +45,7 @@ I am a recent graduate from CSUDH with a degree in Biology - Ecology and Environ
 
 ## Susana Lopez-Ignacio
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/susana.png){: .align-right .width-third} I am third-year student majoring in Cell and Molecular Biology at CSU Dominguez Hills. A topic that interests me is genetics and its correlation to disorders.  In the future, I plan to get more involved with this topic and to dive into the field of neurology. When I have some free time, I like to go and try a new drink flavor at Boba Time or catch up on anime series or drama. I am also into fashion trends and do change my style quite often. In other words, I love shopping!  
-<br><br>
 
-## Nicole Roberts
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/nicole.png){: .align-right .width-third} Currently, I am a Masters student researching Ecological Niche Modelling in North American placental mammals. One joyous discovery I've made so far is how much I love statistics and programming. I plan to pursue conservation work using GIS and Remote Sensing and hope to better understand how climate change and human disturbances are affecting our world. Outside of graduate school, I am a trained opera singer (Lyric Soprano), short story writer, amateur LOTR enthusiast, and avid Instant Pot cooker. I love spending time with my family and two snakes, Noodle and Sausage.
 
 <br><br>
 
@@ -64,6 +61,6 @@ I am a recent graduate from CSUDH with a degree in Biology - Ecology and Environ
 - **Melissa Diaz**: Melissa was a biology undergraduate student & studied lizard behavior. She graduated in December 2018 and is currently working as instructional support while pursuing her Masters in education.
 - **Andrea Hernandez**: Andrea spent two years in the lab studying rarity in the desert plants _Encelia_. Andrea is currently a graduate student pursuing her PhD on fungi & global change at UC Irvine.
 - **Mayra Padilla Flores**: Mayra spent nearly three years in the lab studying hybridization in the desert plants _Encelia_. Mayra is currently a Process Biologist working in food safety.
-- **Nicole Roberts**: Nicole completed her Masters in the lab studying ecological niche modelling in bats. 
+- **Nicole Roberts**: Nicole completed her Masters in the lab studying ecological niche modelling in bats. She is currently exploring careers in GIS; you can find her code base and projects [here](https://github.com/Octoberweather)
 - **Liz Solis**: Liz spent nearly three years in the lab sutdying hybridization in the desert plants _Encelia_ and the species status of the lizard _Ctenotus zastictus_. Liz is currently a PhD student studying venom evolution & microbiomes at University of New Mexico.
 - **John Wrath**: John spent nearly three years in the lab studying the central-marginal hypothesis in Australian lizards. John is currently working as a citizen journalist while applying to graduate school.
