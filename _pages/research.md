@@ -14,7 +14,7 @@ Our research program focuses on three major aims.
 
 # Macroevolutionary patterns of species diversity
 {% include figure image_path="/assets/images/species.png" alt="macro" caption="One reason why species diversity might vary is because speciation rate, or how quickly new species form, also varies. This variation can be seen here across lizards and snakes." %}
-When we think of mammals, we might first think about chimps, bears, and elephants. But, more than 60% of mammal species are either some kind of rodent or bat. This is an example of a compelling pattern found across the tree of life: some types of species are more common than others. We are studying the potential causes for this pattern in lizards and snakes.
+When we think of mammals, we might first think about chimps, bears, and elephants. But, more than 60% of mammal species are either some kind of rodent or bat. This is an example of an interesting pattern found across the tree of life: some types of species are more common than others. We are studying the potential causes for this pattern in lizards and snakes.
 
 Work done in collaboration with [Dan Rabosky](http://www.raboskylab.org/) at University of Michigan.
 
@@ -29,7 +29,7 @@ Work done in collaboration with [Adam Roddy](http://www.adamroddy.com/) at Flori
 <br>
 
 # Comparative species delimitation in lizards
-Typically, when researchers try to understand how many species there are (or, delimit species), they do it on a per-species basis. In this research, we are exploring how we can combine data across different species groups to delimit species. Ultimately, we hope that comparing across species will both allow us to understand better how species form and to delimit species in a more robust and equal way. For this work, we focus on over 30 species of North American lizards.
+Typically, when researchers try to understand how many species there are (or, delimit species), they do it on a per-species basis. In this research, we are exploring how we can combine data across different species groups to delimit species. Ultimately, we hope that comparing across species will both allow us to understand better how species form and to delimit species in a more robust and comparable way. For this work, we focus on over 30 species of North American lizards.
 
 Work done in collaboration with [Adam Leache](http://www.adamroddy.com/) at University of Washington & [Matt Fujita](https://fujitalab.com/) at UT Arlington.
 
@@ -45,4 +45,4 @@ Work done in collaboration with [Matt Fujita](https://fujitalab.com/) at UT Arli
 <br>
 
 # Tool development & sharing data
-As part of our research, we regularly develop new pipelines for preparing and analyzing high-throughput sequencing data, including transcriptome, target capture, and ddRAD data. We strive to make both our code and our data publicly available via our [GitHub](https://github.com/singhal?tab=repositories) page and online databases like NCBI SRA.
+As part of our research, we regularly develop new pipelines for preparing and analyzing high-throughput sequencing data, including transcriptome, target capture, and ddRAD data. We strive to make both our code and our data publicly available via our [GitHub](https://github.com/singhal?tab=repositories) page and online databases.

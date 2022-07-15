@@ -7,7 +7,16 @@ header:
    image: assets/images/sky2.jpg
 ---
 
+## 2022
+- June 2022: Susana heads off to UT Southwestern for a [Summer Undergraduate Research Fellowship](https://www.utsouthwestern.edu/education/graduate-school/research-opportunities/surf/)
+- June 2022: Micah heads off to Washington DC for a [Smithsonian Digital Learning and Engagement Internship](https://affiliations.si.edu/smithsonian-digital-learning-and-engagement-internship/)
+- April 2022: Alexis and Chandra represent the lab at the statewide CSU Student Research Day program.
+- February 2022: Chandra and Alexis took first place in the virtual Natural Sciences section of [Student Research Day](https://news.csudh.edu/student-research-day-2022/). Well done! 
+
 ## 2021
+- December 2021: Alan Santana Hernandez joins the lab as a Masters student. Welcome, Alan!
+- November 2021: We finally were all in the same place, in person. Definitely had to take a picture to commemorate.
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/lab_nov.jpg){: .align-center .width-half}
 - August 2021: Chandra is accepted into the [UC Davis Evolution and Ecology Preview Weekend](https://eegradpreview.weebly.com/). 
 - August 2021: Micah shares her science journey in a powerful video. Watch [here](https://www.youtube.com/watch?v=U0dY8ZYh8Lg&ab_channel=DanielYim).
 - July 2021: Aracely is awarded funds from the NSF REPS program to spend a year at UW Seattle to collaborate with our lab and the [Leache lab](https://faculty.washington.edu/leache/wordpress/) on lizard speciation. We are so excited!

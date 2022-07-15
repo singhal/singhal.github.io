@@ -49,6 +49,10 @@ I am a recent graduate from CSUDH with a degree in Biology - Ecology and Environ
 
 <br><br>
 
+## Alan Santana Hernandez
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/alan.jpg){: .align-right .width-third}
+I am a currently a graduate student here at CSUDH and happy to be a returning Toro. I graduated with my B.S. in Cellular and Molecular Biology from CSUDH, and I am now working towards getting my M.S. in Biology. As a DACA student, learning to navigate through the struggles of being an immigrant and a first generation college student was tough. I say this because, if you can relate, I want to tell you, "sí se puede". Outside of school you can find me spending time with my beautiful wife and puppy, lifting at my powerlifting gym, working at my newly started career, watching anime, or becoming an Elden Lord.
+
 ## Alexis Widmann
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/alexis.jpg){: .align-right .width-third} I am currently a transfer junior at CSUDH from El Camino College. I’m working towards my B.S. in Molecular and Cellular Biology, where I intend to take that truly awesome degree all the way to graduate school where I will earn my M.S. in Genetic Counseling, my true passion. Outside of the lab and lecture you can still find me buried in biology textbooks and genetic pamphlets; some concerned family and friends worry I may have an obsession. Between you and me, I’ve only scratched the surface...
 
@@ -56,11 +60,11 @@ I am a recent graduate from CSUDH with a degree in Biology - Ecology and Environ
 <br><br><br><br><br>
 
 # Alumni
-- **Natalya Cardona**: Natalya spent two years in the lab as an undergraduate student & studied niche evolution in _Encelia_. She recently started a PhD in immunology at The Lundquist Institute.
-- **Josh De Vera**: Josh spent two years in the lab studying the evolution of the _PRDM9_ gene in lizards and snakes. Josh is currently working as a COVID19 safety officer while he pursues his goal of a career in genetic counseling.
+- **Natalya Cardona**: Natalya spent two years in the lab as an undergraduate student & studied niche evolution in _Encelia_. She is currently pursuing a PhD in immunology at The Lundquist Institute.
+- **Josh De Vera**: Josh spent two years in the lab studying the evolution of the _PRDM9_ gene in lizards and snakes. Josh is currently working as a COVID19 safety officer.
 - **Melissa Diaz**: Melissa was a biology undergraduate student & studied lizard behavior. She graduated in December 2018 and is currently working as instructional support while pursuing her Masters in education.
 - **Andrea Hernandez**: Andrea spent two years in the lab studying rarity in the desert plants _Encelia_. Andrea is currently a graduate student pursuing her PhD on fungi & global change at UC Irvine.
 - **Mayra Padilla Flores**: Mayra spent nearly three years in the lab studying hybridization in the desert plants _Encelia_. Mayra is currently a Process Biologist working in food safety.
-- **Nicole Roberts**: Nicole completed her Masters in the lab studying ecological niche modelling in bats. She is currently exploring careers in GIS; you can find her code base and projects [here](https://github.com/Octoberweather)
-- **Liz Solis**: Liz spent nearly three years in the lab sutdying hybridization in the desert plants _Encelia_ and the species status of the lizard _Ctenotus zastictus_. Liz is currently a PhD student studying venom evolution & microbiomes at University of New Mexico.
-- **John Wrath**: John spent nearly three years in the lab studying the central-marginal hypothesis in Australian lizards. John is currently working as a citizen journalist while applying to graduate school.
+- **Nicole Roberts**: Nicole completed her Masters in the lab studying ecological niche modelling in bats. She is currently working as an intern with the DEVELOP program at NASA Jet Propulsion Laboratory and as a research analyst with the Center for Disease Dynamics, Economics and Policy. You can find her code base and projects [here](https://github.com/Octoberweather)
+- **Liz Solis**: Liz spent nearly three years in the lab studying hybridization in the desert plants _Encelia_ and the species status of the lizard _Ctenotus zastictus_. Liz is currently a PhD student studying venom evolution & microbiomes at University of New Mexico.
+- **John Wrath**: John spent nearly three years in the lab studying the central-marginal hypothesis in Australian lizards. John is currently working as a citizen journalist.

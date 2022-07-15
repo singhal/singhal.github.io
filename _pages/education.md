@@ -14,7 +14,7 @@ header:
 - Bio 124: Principles in Biology III: Evolution and Ecology
   - Covers fundamentals of ecology & evolution
   - Taught in flipped class using group activities & discussions
-  - Taught four times since Fall 2017
+  - Taught four times since Fall 2017; teaching this Fall 2022
 - Bio 125: Principles in Biology III: Evolution and Ecology Lab
   - Covers fundamentals of ecology & evolution in a lab setting
   - Taught using inquiry-based, student-directed labs
@@ -31,11 +31,11 @@ header:
 - Bio 450: Evolution
   - New elective course focused on advanced topics in evolution
   - Taught as a discussion-based course based on the primary literature
-  - Taught in Fall 2019 and Fall 2020
+  - Taught in Fall 2019 and Fall 2020; teaching this Fall 2022
 - Bio 490: Senior Project
   - Writing-focused class taught using self- and peer-feedback
   - Also addresses information literacy, career planning, and scientific ethics through activities and discussion
-  - Taught in Fall 2021
+  - Taught in Fall 2021; teaching this Fall 2022
 - Bio 502: Biostatistics
   - Workshop-style course taught using R
   - Taught in Fall 2018 and Fall 2021
@@ -49,5 +49,3 @@ In the past, our lab has been lucky to join these organizations:
 - [Breakthrough Collaborative](https://www.breakthroughcollaborative.org/)
 
 In the future, we look forward to partnering with [CSI3](https://csi3.org/), CSU Dominguez Hills' ground-breaking center for science education and outreach.
-
-
