@@ -13,32 +13,32 @@ header:
   - Covers fundamentals of ecology & evolution
   - Taught in flipped class using group activities & discussions
   - Taught using case studies centered on the primary literature; case studies focus on human impact on ecology & evolution
-  - Taught most recently in Fall 2022, syllabus [here](/assets/docs/Syllabus_Bio124_Fall2022.pdf)
+  - Taught most recently in Fall 2022, syllabus [here](/assets/docs/Bio124_Fall2022.pdf)
 - Bio 125: Principles in Biology III: Evolution and Ecology Lab
   - Covers fundamentals of ecology & evolution in a lab setting
   - Taught using inquiry-based, student-directed labs
   - Redesigned with the generous support of the [CA Learning Lab](https://news.csudh.edu/learning-lab-grant/)
-  - Taught most recently in Spring 2021, syllabus [here](/assets/docs/Syllabus_Bio125-02_Spring2021.pdf)
+  - Taught most recently in Spring 2021, syllabus [here](/assets/docs/Bio125-02_Spring2021.pdf)
 - Bio 340: Genetics
   - Covers molecular genetics, inheritance, and evolutionary genetics
   - Taught in flipped class using group activities & discussions
-  - Taught most recently in Spring 2023, syllabus [here](/assets/docs/Syllabus_Bio340_Spring2023.pdf)
+  - Taught most recently in Spring 2023, syllabus [here](/assets/docs/Bio340_Spring2023.pdf)
 - Bio 440: Molecular Genetics
   - Covers advanced molecular genetics, particularly genomics
   - Taught in a flipped class style with a focus on bioinformatics activities
-  - Taught most recently in Spring 2021, syllabus [here](/assets/docs/Syllabus_Bio440_Spring2021.pdf)
+  - Taught most recently in Spring 2021, syllabus [here](/assets/docs/Bio440_Spring2021.pdf)
 - Bio 450: Evolution
   - Elective course focused on advanced topics in evolution
   - Taught as a discussion-based course based on the primary literature
   - Course uses "ungrading", where students and professor collaboratively decide grades
-  - Taught most recently in Fall 2023, syllabus [here](/assets/docs/Syllabus_Bio450_Fall2023.pdf)
+  - Taught most recently in Fall 2023, syllabus [here](/assets/docs/Bio450_Fall2023.pdf)
 - Bio 490: Senior Project
   - Writing-focused class taught using self- and peer-feedback
   - Also addresses information literacy, career planning, and scientific ethics through activities and discussion
-  - Taught most recently in Spring 2024, syllabus [here](/assets/docs/Syllabus_Bio490_Fall2023.pdf)
+  - Taught most recently in Spring 2024, syllabus [here](/assets/docs/Bio490_Fall2023.pdf)
 - Bio 502: Biostatistics
   - Graduate-level, workshop-style course taught using R
-  - Taught most recently in Fall 2021, syllabus [here](/assets/docs/Syllabus_Bio502_Fall2021.pdf)
+  - Taught most recently in Fall 2021, syllabus [here](/assets/docs/Bio502_Fall2021.pdf)
 
 <!-- 
 ## Outreach
