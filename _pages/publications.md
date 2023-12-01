@@ -10,8 +10,12 @@ header:
 
 <a href="https://scholar.google.com/citations?user=hGRmhQkAAAAJ&hl=en" target="_blank"><img src="/assets/images/Google_Scholar_logo_2015.png" width="100" /></a>
 
+## 2023
+* Leaché AD, HR Davis, CR Feldman, MK Fujita, and S Singhal. Repeated patterns of reptile diversification in Western North America supported by the Northern Alligator Lizard (_Elgaria coerulea_). **Journal of Heredity**, in press.
+* Prates I, MN Hutchinson, S Singhal, C Moritz and DL Rabosky. Notes from the taxonomic disaster zone: Evolutionary drivers of intractable species boundaries in an Australian lizard clade (Scincidae: _Ctenotus_). **Molecular Ecology**, in press. ([pdf](/assets/docs/Prates_etal_2023.pdf) and [SI](/assets/docs/Prates_etal_2023_SI.pdf)).
+
 ## 2022
-* Singhal S, J Wrath, and DL Rabosky. Genetic variability and the ecology of geographic range: a test of the central‐marginal hypothesis in Australian scincid lizards. **Molecular Ecology**, in press. ([pdf](/assets/docs/Singhal_CM_etal_2022.pdf) and [SI](/assets/docs/Singhal_CM_etal_2022_SI.pdf) and [repo](https://github.com/singhal/central_marginal))
+* Singhal S, J Wrath, and DL Rabosky. Genetic variability and the ecology of geographic range: a test of the central‐marginal hypothesis in Australian scincid lizards. **Molecular Ecology**, 31: 4242-4253. ([pdf](/assets/docs/Singhal_CM_etal_2022.pdf) and [SI](/assets/docs/Singhal_CM_etal_2022_SI.pdf) and [repo](https://github.com/singhal/central_marginal))
 * Singhal S, E Solis, and DL Rabosky. World Heritage lizard: population genetics and species status of the range-restricted Hamelin skink, _Ctenotus zastictus_. **Bulletin of the Society of Systematic Biologists**, 1: 86942. ([pdf](/assets/docs/Singhal_zasty_etal_2022.pdf) and [SI](/assets/docs/Singhal_zasty_etal_2022_SI.pdf) and [repo](https://github.com/singhal/zasty))
 * Singhal S, GR Colli, MR Grundler, GC Costa, I Prates, and DL Rabosky. No link between population isolation and speciation rate in squamate reptiles. **Proceedings of the National Academy of Sciences**, 119: e2113388119. ([pdf](/assets/docs/Singhal_brazil_etal_2022.pdf) and [SI](/assets/docs/Singhal_brazil_etal_2022_SI.pdf) and [repo](https://github.com/singhal/brazil_IBD))
 * Pereira RJ and S Singhal. A lizard with two tales: What diversification within _Sceloporus occidentalis_ teaches us about species formation. **Molecular Ecology**, 31: 407-410. ([pdf](/assets/docs/Pereira_Singhal_2022.pdf))

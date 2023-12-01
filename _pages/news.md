@@ -2,12 +2,22 @@
 permalink: /news/
 title: News
 tagline: Sonal Singhal
-modified: 20-August-2017
+modified: 30-Nov-2023
 header:
    image: assets/images/sky2.jpg
 ---
 
+## 2023
+- November 2023: Austin & Andrew share their summer research with their fellow Toros in the Biology Seminar Series
+- November 2023: The lab welcomes four new students: Catherine Giles, Andrew Fairclough, Austin Martinez, and Kimberly Velazquez
+- October 2023: The lab hosts UC Riverside professor Kate Ostevik for a wonderful seminar and dinner. Thanks for visiting us, Kate!
+- June 2023: The lab celebrates our graduates: Micah Castrillo, Itzel Ixta, Chandra Jones, Susana Lopez Ignacio, and Alexis Widmann. Congrats, all! I can't believe we forgot to take a picture.
+- April 2023: The lab conducts a science experiment with CSUDH Math CEO, helping introduce local middle schoolers to biology research on campus
+- February 2023: The lab participates in Girls STEAM Day 2023, helping encourage middle schoolers to pursue STEM in college
+- February 2023: Chandra presents at Student Research Conference. Nice work!
+
 ## 2022
+- November 2022: Susana presents her research at the ABRCMS confernence. Nice work!
 - June 2022: Susana heads off to UT Southwestern for a [Summer Undergraduate Research Fellowship](https://www.utsouthwestern.edu/education/graduate-school/research-opportunities/surf/)
 - June 2022: Micah heads off to Washington DC for a [Smithsonian Digital Learning and Engagement Internship](https://affiliations.si.edu/smithsonian-digital-learning-and-engagement-internship/)
 - April 2022: Alexis and Chandra represent the lab at the statewide CSU Student Research Day program.

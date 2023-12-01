@@ -3,7 +3,7 @@ permalink: /research/
 title: Research
 tagline: Sonal Singhal
 tags: [about, research, Singhal]
-modified: 27-August-2017
+modified: 30-November-2023
 header:
    image: assets/images/research2.jpg
 ---
@@ -35,13 +35,13 @@ Work done in collaboration with [Adam Leache](http://www.adamroddy.com/) at Univ
 
 <br>
 
-# The evolution of asexual reproduction in lizards
+<!-- # The evolution of asexual reproduction in lizards
 {% include figure image_path="/assets/images/lizards.png" alt="lizards" caption="The cost of males: an asexually-reproducing population grows twice as fast as a sexually-reproducing population because males cannot bear children." %}
 Sexual reproduction has many disadvantages. For example, sexual populations grow half as fast as asexual populations (see above). Given this, you might think asexual reproduction is the norm. But, most multicellular species, including our own, reproduce sexually. Why do so many species reproduce sexually if it is so seemingly disadvantageous? One hypothesis is that sex evolved because sex generates genetic variation, and genetic variation fuels evolution. In fact, some call asexuality an evolutionary dead-end. To test this idea, we are comparing closely-related lizard species that have evolved from producing sexually to asexually.
 
 Work done in collaboration with [Matt Fujita](https://fujitalab.com/) at UT Arlington.
 
-
+ -->
 <br>
 
 # Tool development & sharing data
