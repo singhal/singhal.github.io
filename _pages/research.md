@@ -24,7 +24,7 @@ Work done in collaboration with [Dan Rabosky](http://www.raboskylab.org/) at Uni
 {% include figure image_path="/assets/images/encelia1.png" alt="this is a placeholder image" caption="(Left) The desert habitat of _E. asperifolia_ and the dune habitat of _E. ventorum_. (Right) Where the two habitats meet, the two species hybridize." %}
 _Encelia_ is a radiation of about 20 plant species, most of which live in the open deserts of the southwestern United States and Baja California. Each species of _Encelia_ shows adaptations to the different habitats in which they are found. Interestingly, they evolved these differences even while hybridizing freely with each other -- wherever any two species meet, hybrids form, with no evidence that they are sterile or less fit than their parents. We are researching the evolutionary history of these species and their natural hybrid zones to determine how these species formed and how they are maintained.
 
-Work done in collaboration with [Adam Roddy](http://www.adamroddy.com/) at Florida International University & [Felipe Zapata](http://zapatalab.org/) at UCLA.
+Work done in collaboration with [Adam Roddy](http://www.adamroddy.com/) at FIU & [Felipe Zapata](http://zapatalab.org/) at UCLA.
 
 <br>
 

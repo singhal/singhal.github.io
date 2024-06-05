@@ -35,7 +35,7 @@ header:
 - Bio 490: Senior Project
   - Writing-focused class taught using self- and peer-feedback
   - Also addresses information literacy, career planning, and scientific ethics through activities and discussion
-  - Taught most recently in Spring 2024, syllabus [here](/assets/docs/Bio490_Fall2023.pdf)
+  - Taught most recently in Spring 2024, syllabus [here](/assets/docs/Bio490_Spring2024.pdf)
 - Bio 502: Biostatistics
   - Graduate-level, workshop-style course taught using R
   - Taught most recently in Fall 2021, syllabus [here](/assets/docs/Bio502_Fall2021.pdf)

@@ -46,14 +46,14 @@ I am a Junior at CSU Dominguez Hills pursuing an Ecology and Environmental Biolo
 <br><br><br><br><br>
 
 # Alumni
-- **Natalya Cardona**: Natalya spent two years in the lab as an undergraduate student & studied niche evolution in _Encelia_. She is currently pursuing a PhD in immunology at The Lundquist Institute.
+- **Natalya Cardona**: Natalya spent two years in the lab as an undergraduate student & studied niche evolution in _Encelia_. She is currently pursuing a PhD in immunology at UCLA.
 - **Micah Castrillo**: Micah spent 1.5 years in the lab as an undergraduate student & studied rare species in _Encelia_. She is currently working at a conservation non-profit.
 - **George Contreras**: George spent one year in the lab studying the species delimitation of _Notoscincus ornatus_.
-- **Josh De Vera**: Josh spent two years in the lab studying the evolution of the _PRDM9_ gene in lizards and snakes. Josh is currently working as a COVID19 safety officer.
+- **Josh De Vera**: Josh spent two years in the lab studying the evolution of the _PRDM9_ gene in lizards and snakes. Josh is currently working as an EH&S safety officer.
 - **Melissa Diaz**: Melissa was a biology undergraduate student & studied lizard behavior. She graduated in December 2018 and is currently working as instructional support while pursuing her Masters in education.
 - **Andrea Hernandez**: Andrea spent two years in the lab studying rarity in the desert plants _Encelia_. Andrea is currently a graduate student pursuing her PhD on fungi & global change at UC Irvine.
-- **Aracely Herrera**: Aracely spent a year in the lab as a NSF REPS student based with the Leaché Lab at University of Washington, studying morphological divergence among _Sceloporus_ populations.
-- **Itzel Ixta**: Itzel spent two years in the lab studying the species delimitation of _Notoscincus ornatus_.
+- **Aracely Herrera**: Aracely spent a year in the lab as a NSF REPS student based with the Leaché Lab at University of Washington, studying morphological divergence among _Sceloporus_ populations. Aracely is currently a Parks Intern at César E. Chávez National Monument.
+- **Itzel Ixta**: Itzel spent two years in the lab studying the species delimitation of _Notoscincus ornatus_. Itzel currently provides client service at a medical testing lab.
 - **Chandra Jones**: Chandra spent two years in the lab studying the black-yellow polymorphism in _Encelia farinosa_. She currently is helping manage a grocery store while she prepares to apply to graduate school.
 - **Susana Lopez Ignacio**: Susana spent two years in the lab studying rare species in _Encelia_. During her time in the lab, she was supported by the NIH RISE program. Susana is currently pursuing her PhD at CU Boulder. 
 - **Mayra Padilla Flores**: Mayra spent nearly three years in the lab studying hybridization in the desert plants _Encelia_. Mayra is currently a Process Biologist working in food safety.

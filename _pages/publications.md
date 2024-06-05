@@ -10,8 +10,14 @@ header:
 
 <a href="https://scholar.google.com/citations?user=hGRmhQkAAAAJ&hl=en" target="_blank"><img src="/assets/images/Google_Scholar_logo_2015.png" width="100" /></a>
 
+## 2024
+* Brennan IG, S Singhal, and ZA Bkhetan. _pipesnake_: Generalized software for the assembly and analysis of phylogenomic datasets from conserved genomic loci. **Bioinformatics**, btae195. ([pdf](/assets/docs/Brennan_etal_2024.pdf))
+* Title PO\*, S Singhal\*, MC Grundler, GC Costa, RA Pyron, TJ Colston, MR Grundler, I Prates, N Stepanova, MEH Jones, LBQ Cavalcanti, GR Colli, N Di-Poi, SC Donnellan, C Mortiz, DO Mesquita, ER Pianka, SA Smith, LJ Vitt, and DL Rabosky. The macroevolutionary singularity in snakes. **Science**, 383: 918-923. (\*co-first author) ([pdf](/assets/docs/Title_etal_2024.pdf) and [SI](/assets/docs/Title_etal_2024_SI.pdf) and [repo](https://github.com/macroevolution/squamata))
+* Singhal S, K Kram, J Valliere, F Wang, B Heckel, S Leigh, K Theiss, C McCord, A Soroosh, T Taylor, S Zamora, and B. Sato. Integration of inquiry-based experiences department-wide: an example from biology curriculum. **Experiential Learning and Teaching in Higher Education**, 7:1. ([pdf](/assets/docs/Singhal_etal_2024.pdf))
+* Stankowski S, 43 co-authors including S Singhal, and J Kulmuni. Towards the integration of speciation research. **Evolutionary Journal of the Linnean Society**, 3: kzae001. ([pdf](/assets/docs/Stankowski_etal_2024.pdf) and [SI](/assets/docs/Stankowski_etal_2024_SI.pdf))
+* Leaché AD, HR Davis, CR Feldman, MK Fujita, and S Singhal. Repeated patterns of reptile diversification in Western North America supported by the Northern Alligator Lizard (_Elgaria coerulea_). **Journal of Heredity**, 115: 57-71. ([pdf](/assets/docs/Leache_etal_2024.pdf) and [SI](/assets/docs/Leache_etal_2024_SI.pdf))
+
 ## 2023
-* Leaché AD, HR Davis, CR Feldman, MK Fujita, and S Singhal. Repeated patterns of reptile diversification in Western North America supported by the Northern Alligator Lizard (_Elgaria coerulea_). **Journal of Heredity**, in press.
 * Prates I, MN Hutchinson, S Singhal, C Moritz and DL Rabosky. Notes from the taxonomic disaster zone: Evolutionary drivers of intractable species boundaries in an Australian lizard clade (Scincidae: _Ctenotus_). **Molecular Ecology**, in press. ([pdf](/assets/docs/Prates_etal_2023.pdf) and [SI](/assets/docs/Prates_etal_2023_SI.pdf)).
 
 ## 2022

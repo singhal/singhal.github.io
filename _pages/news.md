@@ -7,7 +7,19 @@ header:
    image: assets/images/sky2.jpg
 ---
 
+## 2024
+- June 2024: Alan successfully defends his thesis. Yay, Alan!
+- June 2024: Andrew heads to a REU at Yale, Austin heads to a REU at the U Arizona Biosphere, and Catherine heads to a SURF at City of Hope. Have fun!
+- May 2024: The lab celebrates a successful first year with a trip to the LA Zoo.
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/zoo.jpg){: .align-center .width-half}
+- April 2024: Catherine is selected as a RISE scholar. This will support two years of research. Nice work, Cathy!
+- March 2024: The lab hosts Dr. Priscilla San Juan for a fun seminar and dinner. Thanks for coming to visit us, Priscilla!
+
+
 ## 2023
+- December 2023: We celebrate a successful first semester as a lab with a holiday party. 
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/xmas.jpeg){: .align-center .width-half}
+- December 2023: Former student Chandra Jones shares her science journey with the [Discover Discovery](https://discoverdiscovery.com/videos/chandra-jones/) campaign
 - November 2023: Austin & Andrew share their summer research with their fellow Toros in the Biology Seminar Series
 - November 2023: The lab welcomes four new students: Catherine Giles, Andrew Fairclough, Austin Martinez, and Kimberly Velazquez
 - October 2023: The lab hosts UC Riverside professor Kate Ostevik for a wonderful seminar and dinner. Thanks for visiting us, Kate!
