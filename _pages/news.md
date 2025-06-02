@@ -7,7 +7,14 @@ header:
    image: assets/images/sky2.jpg
 ---
 
+## 2025
+- May 2025: Andrew, Austin, and Kim graduate. Congratulations, all!
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/grad.JPG){: .align-center .width-half}
+- May 2025: Andrew is selected as Best Undergraduate Biology Student (Research). Well deserved, Andrew!
+- January 2025: The lab hosts a graduation dinner for Andrew & Austin. We will miss you both.
+
 ## 2024
+- October 2024: The lab hosts Dr. Ilan Goldstein for a fun seminar and dinner. Thanks for visiting us, Ilan!
 - June 2024: Alan successfully defends his thesis. Yay, Alan!
 - June 2024: Andrew heads to a REU at Yale, Austin heads to a REU at the U Arizona Biosphere, and Catherine heads to a SURF at City of Hope. Have fun!
 - May 2024: The lab celebrates a successful first year with a trip to the LA Zoo.

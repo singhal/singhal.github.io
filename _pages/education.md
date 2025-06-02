@@ -25,8 +25,8 @@ header:
   - Taught most recently in Spring 2023, syllabus [here](/assets/docs/Bio340_Spring2023.pdf)
 - Bio 440: Molecular Genetics
   - Covers advanced molecular genetics, particularly genomics
-  - Taught in a flipped class style with a focus on bioinformatics activities
-  - Taught most recently in Spring 2021, syllabus [here](/assets/docs/Bio440_Spring2021.pdf)
+  - Taught in a flipped class style with a focus on understanding the basic biology behind emerging molecular technologies
+  - Taught most recently in Spring 2025, syllabus [here](/assets/docs/Bio440_Spring2025.pdf)
 - Bio 450: Evolution
   - Elective course focused on advanced topics in evolution
   - Taught as a discussion-based course based on the primary literature
@@ -35,7 +35,7 @@ header:
 - Bio 490: Senior Project
   - Writing-focused class taught using self- and peer-feedback
   - Also addresses information literacy, career planning, and scientific ethics through activities and discussion
-  - Taught most recently in Spring 2024, syllabus [here](/assets/docs/Bio490_Spring2024.pdf)
+  - Taught most recently in Fall 2024, syllabus [here](/assets/docs/Bio490_Fall2024.pdf)
 - Bio 502: Biostatistics
   - Graduate-level, workshop-style course taught using R
   - Taught most recently in Fall 2021, syllabus [here](/assets/docs/Bio502_Fall2021.pdf)
