@@ -26,7 +26,7 @@ header:
 - Bio 440: Molecular Genetics
   - Covers advanced molecular genetics, particularly genomics
   - Taught in a flipped class style with a focus on understanding the basic biology behind emerging molecular technologies
-  - Taught most recently in Spring 2025, syllabus [here](/assets/docs/Bio440_Spring2025.pdf)
+  - Taught most recently in Spring 2026, syllabus [here](/assets/docs/Bio440_Spring2025.pdf)
 - Bio 450: Evolution
   - Elective course focused on advanced topics in evolution
   - Taught as a discussion-based course based on the primary literature
@@ -48,5 +48,3 @@ In the past, our lab has been lucky to join these organizations:
 - [Code Nation](https://codenation.org/)
 - [Prison University Program](https://prisonuniversityproject.org/) at San Quentin Prison
 - [Breakthrough Collaborative](https://www.breakthroughcollaborative.org/)
-
-In the future, we look forward to partnering with [CSI3](https://csi3.org/), CSU Dominguez Hills' ground-breaking center for science education and outreach. -->

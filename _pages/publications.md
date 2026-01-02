@@ -11,6 +11,8 @@ header:
 <a href="https://scholar.google.com/citations?user=hGRmhQkAAAAJ&hl=en" target="_blank"><img src="/assets/images/Google_Scholar_logo_2015.png" width="100" /></a>
 
 ## 2025
+* Singhal S, AD Leaché, MK Fujita, CD Cadena, F Zapata. A genomic perspective on species delimitation. **Annual Review of Ecology, Evolution, and Systematics**, 56: 467-89. ([pdf](/assets/docs/Singhal_etal_2025_AREES.pdf) and [SI](/assets/docs/Singhal_etal_2025_AREES_SI.pdf))
+* Leaché AD, HR Davis, S Singhal. Hybrid zone analysis using coalescent-based estimates of introgression and migration in Plateau Fence Lizards (_Sceloporus tristichus_). **Molecular Ecology**, 34:e17819. ([pdf](/assets/docs/Leache_etal_2025.pdf) and [SI](/assets/docs/Leache_etal_2025_SI.pdf) and [repo](https://datadryad.org/dataset/doi:10.5061/dryad.47d7wm3rz))
 * Singhal S, I Prates, H Huang, MR Grundler, AR Lemmon, E Moriarty Lemmon, PO Title, SC Donnellan, C Moritz, and DL Rabosky. Adaptive radiation, 'taxon murk', and the reality of early burst speciation: an example from Australia’s scincid lizards. **Evolutionary Journal of the Linnean Society**, 4(1): kzaf006. ([pdf](/assets/docs/Singhal_etal_2025.pdf) and [SI](/assets/docs/Singhal_etal_2025_SI.pdf) and [repo](https://github.com/singhal/sphenophylo))
 
 ## 2024
