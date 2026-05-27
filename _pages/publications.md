@@ -10,6 +10,12 @@ header:
 
 <a href="https://scholar.google.com/citations?user=hGRmhQkAAAAJ&hl=en" target="_blank"><img src="/assets/images/Google_Scholar_logo_2015.png" width="100" /></a>
 
+## 2026
+* Shemuel J, S Singhal, C Moritz, SM Zozaya. The signal of admixture can decay rapidly when using clustering-based methods. **EcoEvoRxiv**. ([pdf](/assets/docs/Shemuel_etal_2026.pdf))
+* Leaché AD, HR Davis, EB Guerra, A Herrera, J Lemos-Espinal, MK Fujita, TC Myers, S. Singhal, Gene flow creates fuzzy species boundaries in fence lizards. **EcoEvoRxiv**. ([pdf](/assets/docs/Leache_etal_2026.pdf) and [SI figures](/assets/docs/Leache_etal_2026_SIa.pdf) and [SI tables](/assets/docs/Leache_etal_2026_SIb.xlsx))
+* Walker J, C Cooney, J Kulmuni, K Lohse, J Meier, R Merrill, E Scordato, CM Smadja, S Singhal\*, R Butlin\*, S Stankowski\*. A standardised framework for classifying estimates of reproductive isolation across the Tree of Life. **EcoEvoRxiv**. ([pdf](/assets/docs/Walker_etal_2026.pdf) and [SI](/assets/docs/Walker_etal_2026_SI.xlsx))
+* Torkkola JJ, Tiatragul S, Broady S, Brennan IG, Keogh JS, Rabosky DL, Singhal S, Oliver PM. Sphenomorphini unravelled: a phylogenomic framework and generic reassessments for Australia’s most species-rich vertebrate radiation. **Molecular Phylogenetics  & Evolution**. ([pdf](/assets/docs/Torkkola_etal_2026.pdf) and [SI](/assets/docs/Torkkola_etal_2026_SI.pdf) and [repo](https://zenodo.org/records/17541049))
+
 ## 2025
 * Singhal S, AD Leaché, MK Fujita, CD Cadena, F Zapata. A genomic perspective on species delimitation. **Annual Review of Ecology, Evolution, and Systematics**, 56: 467-89. ([pdf](/assets/docs/Singhal_etal_2025_AREES.pdf) and [SI](/assets/docs/Singhal_etal_2025_AREES_SI.pdf))
 * Leaché AD, HR Davis, S Singhal. Hybrid zone analysis using coalescent-based estimates of introgression and migration in Plateau Fence Lizards (_Sceloporus tristichus_). **Molecular Ecology**, 34:e17819. ([pdf](/assets/docs/Leache_etal_2025.pdf) and [SI](/assets/docs/Leache_etal_2025_SI.pdf) and [repo](https://datadryad.org/dataset/doi:10.5061/dryad.47d7wm3rz))

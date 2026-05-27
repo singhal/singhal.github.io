@@ -7,6 +7,10 @@ header:
    image: assets/images/sky2.jpg
 ---
 
+## 2026
+- March 2026: The lab hosted Dr. Hayden Davis from NOAA for a really fun seminar.
+- February 2026: The lab hosted Dr. Cameron Egan from USC for a wonderful seminar.
+
 ## 2025
 - December 2025: Very quiet fall as Sonal was on sabbatical. Looking forward to a busier 2026!
 - May 2025: Andrew, Austin, and Kim graduate. Congratulations, all!

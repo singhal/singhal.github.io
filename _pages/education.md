@@ -26,7 +26,7 @@ header:
 - Bio 440: Molecular Genetics
   - Covers advanced molecular genetics, particularly genomics
   - Taught in a flipped class style with a focus on understanding the basic biology behind emerging molecular technologies
-  - Taught most recently in Spring 2026, syllabus [here](/assets/docs/Bio440_Spring2025.pdf)
+  - Taught most recently in Spring 2026, syllabus [here](/assets/docs/Bio440_Spring2026.pdf)
 - Bio 450: Evolution
   - Elective course focused on advanced topics in evolution
   - Taught as a discussion-based course based on the primary literature
@@ -39,12 +39,3 @@ header:
 - Bio 502: Biostatistics
   - Graduate-level, workshop-style course taught using R
   - Taught most recently in Fall 2021, syllabus [here](/assets/docs/Bio502_Fall2021.pdf)
-
-<!-- 
-## Outreach
-In the past, our lab has been lucky to join these organizations:
-- [Girls Who Code](https://girlswhocode.com/)
-- [Software Carpentry](https://software-carpentry.org/)
-- [Code Nation](https://codenation.org/)
-- [Prison University Program](https://prisonuniversityproject.org/) at San Quentin Prison
-- [Breakthrough Collaborative](https://www.breakthroughcollaborative.org/)
